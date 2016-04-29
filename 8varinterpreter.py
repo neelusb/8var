@@ -6,7 +6,7 @@ import os
 
 def prompt(inp):
     if not inp.startswith('8v'):
-        inp = '8v1.0v.' + inp + 'fin'
+        inp = '8v1.1v.' + inp + 'fin'
     retval = eightvar.prnt(inp)
     if retval:
         return retval

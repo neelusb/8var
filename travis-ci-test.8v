@@ -1,21 +1,15 @@
-8v.1.0v.
+8vBETA1v.
+int534intn44int4-66int4-30intn23intn1intn2intnintn4booln1bool4tboolntstr5'Hey'strn"Hi\ There"str5+'\ there!'str0+"!"outstr5dly1outlnoutbool3dly1outlnoutbool4outlnoutint5fltn44flt433flt4-30.440fltl+2outlnoutflt0out"2736473748"outlnfltn222.4445fltl-34outfltloutln4out"Hi"uout33outlnoutflt1outlnuoutflt1uout188uoutint4int4+5uoutint4intn188uoutintluoutfltl
+blob
+uout677
+dly1
+out1
+outln
+dly1
+out2
+outln
 int122
-int236
-int1+36
-int1-57
 outint1
-outln
-out"Hello!"
-strn"Hey\ There"
-outlnstrl
-out"Hello"
-fltn1.666
-fltl+3.4
-outfltl
-outln
-int32.2
-outlnint3
-outln0.0
-out"I 'm\ done\ now,\ byeeeee!"
-By the way, the space is supposed to be there between the "I" and the "'m" and shouldn't show in the output because it hasn't been escaped with a backslash. Also, this is a comment and is ignored by the 8var interpreter.
+out"Yay\ delays\ work!"
+outint1
 fin
