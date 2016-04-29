@@ -10,6 +10,6 @@ out2
 outln
 int122
 outint1
-inint1
+out"Works!"
 outint1
 fin
