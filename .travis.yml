@@ -15,3 +15,7 @@ script:
   - mv 8varinterpreter.py 8var
   - python 8var test.8v
   - python 8var -c "8v.1.1.7v.out'Hello'fin"
+  - python 8var minify test.8v testminrename.8v
+  - python 8var testminrename.8v
+  - python 8var minify test.8v
+  - python 8var test.min.8v
